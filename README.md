@@ -1,5 +1,9 @@
 # Proyecto-Final-Fundamentos-de-Programacion
 
+#### Colaboradores
+- Owen Hernández Islas
+- Alan Ponce Castillejos
+
 ### Odjetivo:
 La creación de este programa es poder alentar a la creación de contraseñas más seguras para la protección de nuestros datos personales como individuos.
 
